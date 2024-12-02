@@ -21,6 +21,7 @@ I added this line.
 * Hi, This is Rahman Md Mustafizur
 * おはようございます。ハビバです！
 * hallo class, harland here
+* Hello, I'm Riza - よろしくお願いします
 * Hei, jeg er Valerie Megan!
 * Hi, This is Haftamu
 * Hello, This is Oluwatobi
